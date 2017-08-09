@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icon/close_down.png</file>
+        <file>icon/close_normal.png</file>
+        <file>icon/close_over.png</file>
+        <file>icon/max_down.png</file>
+        <file>icon/max_normal.png</file>
+        <file>icon/max_over.png</file>
+        <file>icon/min_down.png</file>
+        <file>icon/min_normal.png</file>
+        <file>icon/min_over.png</file>
+        <file>icon/restore_down.png</file>
+        <file>icon/restore_normal.png</file>
+        <file>icon/restore_over.png</file>
+        <file>icon/titlebackground.png</file>
+        <file>qss/window.css</file>
+    </qresource>
+</RCC>

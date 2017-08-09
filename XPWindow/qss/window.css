@@ -1,0 +1,52 @@
+QPushButton#minSizeBtn
+{
+    border: none;
+    image: url(:/icon/min_normal.png);
+}
+QPushButton#minSizeBtn:hover
+{
+    image: url(:/icon/min_over.png);
+}
+QPushButton#minSizeBtn:pressed
+{
+    image: url(:/icon/min_down.png);
+}
+QPushButton#maxSizeBtn
+{
+    border: none;
+    image: url(:/icon/max_normal.png);
+}
+QPushButton#maxSizeBtn:hover
+{
+    image: url(:/icon/max_over.png);
+}
+QPushButton#maxSizeBtn:pressed
+{
+    image: url(:/icon/max_down.png);
+}
+QPushButton#restoreBtn
+{
+    border: none;
+    image: url(:/icon/restore_normal.png);
+}
+QPushButton#restoreBtn:hover
+{
+    image: url(:/icon/restore_over.png);
+}
+QPushButton#restoreBtn:pressed
+{
+    image: url(:/icon/restore_down.png);
+}
+QPushButton#closeBtn
+{
+    border: none;
+    image: url(:/icon/close_normal.png);
+}
+QPushButton#closeBtn:hover
+{
+    image: url(:/icon/close_over.png);
+}
+QPushButton#closeBtn:pressed
+{
+    image: url(:/icon/close_down.png);
+}
